@@ -1,4 +1,4 @@
-# AI-For-Medicine-Specialization
+# AI For Medicine Specialization
 This repo contains assignments and all workbooks of course AI For Medicine Specialization by deeplearning.ai. All course is fully provided by deeplearning.ai on Coursera. All assignments are done by me.
 
 # About this Specialization
